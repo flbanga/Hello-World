@@ -5,7 +5,7 @@ index.html
   
   <body>
     <h1> Species <h1>
-      <p> What Species there are <P> 
+      <p> What Forest there are <P> 
         
       <h2> Forest <h2>
         <p> What forest there are <p>
