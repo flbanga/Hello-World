@@ -1,6 +1,6 @@
 # Hello-World
 index.html
-<title> Begin World <title>
+<title> Around the World <title>
   */ Changed Title */
   
   <body>
